@@ -1,0 +1,82 @@
+.navbar, .container-fluid{
+    background-color: #5300e8 !important;
+    margin-top: -5px;
+    padding: 10px;
+}
+
+
+@font-face {
+    font-family: Caveat;
+    src: url(fonts/Caveat-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: LilitaOne;
+    src: url(fonts/LilitaOne-Regular.ttf);
+}
+
+
+.navbar-brand{
+    color: #fff !important;
+    font-weight: 700 !important;
+    font-size: xx-large !important;
+    font-family: Caveat;
+    padding: 10px;
+}
+
+.my-container{
+    width: fit-content;
+    margin: 0 auto;
+    margin-top: 150px;
+}
+
+
+
+.inputs{
+    width: 300px !important;
+    margin-bottom: 50px;
+    padding: 10px;
+    font-size: x-large;
+    border: 5px solid #5300e8;
+}
+
+#input{
+    margin-bottom: 30px;
+}
+
+
+#validPassword{
+    margin-top: -20px !important;
+}
+
+
+.main{
+    width: fit-content;
+    margin: 0 auto;
+}
+
+
+#bttn{
+    width: 300px;
+    padding: 20px;
+    height: 100px;
+    margin-left: 570px!important;
+    margin-bottom: 10px !important;
+    font-size: x-large;
+    font-family: LilitaOne;
+    border: 5px solid #140236;
+    background-color: #5300e8;
+    color: #fff;
+    margin-bottom: 20px;
+    margin: 0 auto;
+}
+
+#copy-btn{
+    width: 300px;
+    padding: 20px;
+    font-size: x-large;
+    font-family: LilitaOne;
+    border: 5px solid #140236;
+    background-color: #5300e8;
+    color: #fff;
+}
